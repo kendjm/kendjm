@@ -4,11 +4,13 @@
 
 **Founder of [Gap Hunter Labs](https://github.com/GapHunterLabs)** · Developer tools, static analysis and root-cause research
 
-[![Website](https://img.shields.io/badge/website-gaphunterlabs.com-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020)](https://gaphunterlabs.com)
-[![Organization](https://img.shields.io/badge/org-GapHunterLabs-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/GapHunterLabs)
-[![X](https://img.shields.io/badge/X-@GapHunterLabs-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/GapHunterLabs)
-[![Email](https://img.shields.io/badge/contact-gaphunterlabs.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@gaphunterlabs.com)
-[![Sponsor](https://img.shields.io/badge/sponsor-the%20work-0a0a0a?style=flat-square&logo=githubsponsors&logoColor=white)](https://gaphunterlabs.com/sponsors/)
+[![gaphunterlabs.com](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/website.svg)](https://gaphunterlabs.com)
+[![GapHunterLabs on GitHub](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/org.svg)](https://github.com/GapHunterLabs)
+[![JetBrains Marketplace](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/jetbrains-marketplace.svg)](https://plugins.jetbrains.com/vendor/gap-hunter-labs)
+[![VS Code Marketplace](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/vscode-marketplace.svg)](https://marketplace.visualstudio.com/publishers/GapHunterLabs)
+[![@GapHunterLabs on X](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/x.svg)](https://x.com/GapHunterLabs)
+[![Email contact@gaphunterlabs.com](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/contact.svg)](mailto:contact@gaphunterlabs.com)
+[![Sponsor the work](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/sponsor.svg)](https://gaphunterlabs.com/sponsors/)
 
 </div>
 
@@ -25,6 +27,15 @@ local-first tooling for JetBrains IDEs and VS Code, and does root-cause research
 performance, security and reliability.
 
 I'm open to consulting engagements and select opportunities.
+
+## Stack
+
+| Layer | What I use |
+| --- | --- |
+| **Platforms** | ![JetBrains IDEs](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-jetbrains-ides.svg) ![IntelliJ IDEA](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-intellij-idea.svg) ![VS Code](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-vscode.svg) ![Windows](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-windows.svg) |
+| **Languages** | ![Kotlin](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-kotlin.svg) ![Java](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-java.svg) ![Python](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-python.svg) |
+| **Disciplines** | ![Static analysis](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-static-analysis.svg) ![Performance](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-performance.svg) ![Security research](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-security-research.svg) ![Reliability](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-reliability.svg) |
+| **Tooling** | ![Gradle](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-gradle.svg) ![JUnit](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-junit.svg) ![Git](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-git.svg) ![GitHub](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-github.svg) ![GitHub Actions](https://raw.githubusercontent.com/GapHunterLabs/.github/main/profile/badges/stack-github-actions.svg) |
 
 ## What I work on
 
@@ -52,12 +63,13 @@ The full list, with my methodology, is on [gaphunterlabs.com](https://gaphunterl
 ## Tools
 
 What I publish lives under the [GapHunterLabs](https://github.com/GapHunterLabs)
-organization and on the
-[JetBrains Marketplace](https://plugins.jetbrains.com/vendor/gap-hunter-labs):
+organization, on the
+[JetBrains Marketplace](https://plugins.jetbrains.com/vendor/gap-hunter-labs) and on the
+[VS Code Marketplace](https://marketplace.visualstudio.com/publishers/GapHunterLabs):
 
-- **Mermaid Companion** — syntax highlighting and real syntax validation for `.mmd` / `.mermaid` files.
-- **Refactor Simulator** — preview a refactoring in an isolated, in-memory sandbox before you commit it.
-- **ghl-jail** — run a command-line tool so it can only touch one project folder, not your secrets. Windows, no admin rights, no install.
+- **[Mermaid Companion](https://gaphunterlabs.com/catalog/mermaid-companion/)** — syntax highlighting and real syntax validation for `.mmd` / `.mermaid` files.
+- **[Refactor Simulator](https://gaphunterlabs.com/catalog/refactor-simulator/)** — preview a refactoring in an isolated, in-memory sandbox before you commit it.
+- **[ghl-jail](https://gaphunterlabs.com/ghl-jail/)** — run a command-line tool so it can only touch one project folder, not your secrets. Windows, no admin rights, no install.
 
 ## Sponsors
 
