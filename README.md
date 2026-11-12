@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joel Díaz
+# Joel Diaz
 
 **Founder of [Gap Hunter Labs](https://github.com/GapHunterLabs)** · Developer tools, static analysis and root-cause research
 
